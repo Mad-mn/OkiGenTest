@@ -1,4 +1,0 @@
-#Fri Mar 19 18:03:02 EET 2021
-base.0=D\:\\Programs\\Unity Projects\\Test Cube Road\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
-path.0=classes.dex
-renamed.0=classes.dex

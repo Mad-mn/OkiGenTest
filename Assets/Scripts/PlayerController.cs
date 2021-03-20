@@ -58,7 +58,7 @@ public class PlayerController : MonoBehaviour
     {
         if (mainCube != null)
         {
-            Debug.Log("0");
+            
             ///////////////////////////////////////////////////////////////////ForvardSpeed
             if (isTouch && isGrounded)
             {
